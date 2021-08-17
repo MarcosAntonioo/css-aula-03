@@ -1,0 +1,9 @@
+p{
+    color: green;
+    text-transform: capitalize;
+}
+.a{
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+}

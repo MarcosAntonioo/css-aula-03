@@ -1,0 +1,12 @@
+h1{
+    background-color: green;
+    color: white;
+}
+body{
+    background-color: lightblue;
+    background-image: url(https://images.all-free-download.com/images/graphicthumb/dramatic_clouds_515603.jpg);
+    background-repeat: no-repeat;
+    background-position: right 250px;
+    background-attachment: fixed;
+    
+}
